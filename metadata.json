@@ -1,0 +1,5 @@
+{
+  "name": "AI Logo Generator",
+  "description": "An application that generates beautiful logos using AI. Users can describe their service, generate a logo, and provide feedback to refine it.",
+  "requestFramePermissions": []
+}
